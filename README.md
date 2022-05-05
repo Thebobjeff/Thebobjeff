@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thebobjeff
+- 👋 Hi, I’m Devonte Edward
 - 👀 I’m interested in This wonder full world of programming
 - 🌱 I’m currently learning spring jpa
 - 💞️ I’m looking to collaborate on any game devoplemt projects
